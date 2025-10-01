@@ -19,12 +19,13 @@ I’m a cybersecurity professional with a passion for securing systems, networks
 
 ## 📂 Featured Projects
 
-### 🔍 [Threat Hunting Lab](https://github.com/ferdinand-cybersecurity/threat-hunting-lab)
+### 🔍 [Intrastructure Security and Threat Hunting Lab](https://github.com/ferdinand-cybersecurity/threat-hunting-lab)
 Hands-on lab for threat hunting in enterprise environments using open-source tools and SIEM.
 
 - 🔸 ELK Stack integration
 - 🔸 Custom log parsing and enrichment
 - 🔸 MITRE ATT&CK Mapping
+- 🔸 Segmentation and secure endpoint/remote access
 
 ---
 
