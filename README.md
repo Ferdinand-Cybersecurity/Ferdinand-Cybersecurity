@@ -47,7 +47,7 @@ A lightweight vulnerability scanner built in Python for educational use and inte
 
 ---
 
-## 🧠 Infrastructure security
+## 🧠 [Infrastructure Security](https://github.com/Ferdinand-Cybdersecurity/infrastructuresecurity)
 
 I am currently working on networking deep-dive, technical walk-throughs, and guides on:
 
