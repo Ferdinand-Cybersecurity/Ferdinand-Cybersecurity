@@ -10,7 +10,7 @@
 
 I’m a cybersecurity professional with a passion for securing systems, networks, and applications. I specialize in penetration testing, threat hunting, vulnerability management, and security automation. My goal is to make the digital world safer by proactively identifying risks and implementing best-in-class security practices.
 
-- 🧰 Tools & Tech: IBM Qradar, Cisco Packet Tracer, Nmap, Metasploit, Wireshark, Splunk, Kali Linux, pfSense
+- 🧰 Tools & Tech: IBM Qradar, Cisco Packet Tracer, Nmap, Metasploit, Wireshark, Splunk, Kali Linux, pfSense, Tenable Nessus
 - 🛠️ Languages: Python, Bash, PowerShell, Go
 - 📚 Certifications: IBM Cybersecurity Analyst, Oracle Autonomous Database, CompTIA Security+, PMP 
 - 🌐 Interests: Offensive Security, Threat Intelligence, Blue Team Operations, Malware Analysis, Risk Compliance, Cloud Security
@@ -19,13 +19,13 @@ I’m a cybersecurity professional with a passion for securing systems, networks
 
 ## 📂 Featured Projects
 
-### 🔍 [Intrastructure Security and Threat Hunting Lab](https://github.com/ferdinand-cybersecurity/threat-hunting-lab)
+### 🔍 [Threat Hunting Lab](https://github.com/ferdinand-cybersecurity/threat-hunting-lab)
 Hands-on lab for threat hunting in enterprise environments using open-source tools and SIEM.
 
 - 🔸 ELK Stack integration
 - 🔸 Custom log parsing and enrichment
 - 🔸 MITRE ATT&CK Mapping
-- 🔸 Segmentation and secure endpoint/remote access
+  
 
 ---
 
@@ -47,13 +47,13 @@ A lightweight vulnerability scanner built in Python for educational use and inte
 
 ---
 
-## 🧠 Threathunting and Infrastructure security
+## 🧠 Infrastructure security
 
 I am currently working on networking deep-dive, technical walk-throughs, and guides on:
 
 - 🔹 Exploit development & reverse engineering  
 - 🔹 SIEM tuning for real-world attack detection  
-- 🔹 Network segmentation and implementing the principle of least privilege for access controls
+- 🔹 Network segmentation, secure endpoint and implementing the principle of least privilege for access controls
     
 
 
