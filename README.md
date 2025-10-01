@@ -10,7 +10,7 @@
 
 I’m a cybersecurity professional with a passion for securing systems, networks, and applications. I specialize in penetration testing, threat hunting, vulnerability management, and security automation. My goal is to make the digital world safer by proactively identifying risks and implementing best-in-class security practices.
 
-- 🧰 Tools & Tech: Burp Suite, Nmap, Metasploit, Wireshark, Splunk, Kali Linux
+- 🧰 Tools & Tech: IBM Qradar, Cisco Packet Tracer, Nmap, Metasploit, Wireshark, Splunk, Kali Linux
 - 🛠️ Languages: Python, Bash, PowerShell, Go
 - 📚 Certifications: IBM Cybersecurity Analyst, Oracle Autonomous Database, CompTIA Security+, PMP 
 - 🌐 Interests: Offensive Security, Threat Intelligence, Blue Team Operations, Malware Analysis, Risk Compliance
